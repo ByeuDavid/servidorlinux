@@ -16,5 +16,5 @@ gateway 192.168.1.1
 dns-nameservers 192.168.1.1
 
 #Domínio igual do Microsoft
-dns-search gabriel.local
-dns-domain gabriel.local
+dns-search ramos.local
+dns-domain ramos.local
